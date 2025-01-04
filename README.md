@@ -18,4 +18,4 @@ This repository contains a comprehensive collection of MySQL queries demonstrati
 ### How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/DipankarDubey65/SQL-Command.git
+   git clone https://github.com/DipankarDubey65/Sql-Queries.git
